@@ -1,6 +1,6 @@
 ## Hi, I`m Vladimir 👋 
 - 💻 **I`m currently working on**: a web application where students solve coding exercises for teachers
-- 💬 **Ask me about**: C#, .NET Core, WPF, Databases, System Design, and DDD
+- 💬 **Ask me about**: C#, .NET, .NET Framework, WPF, Databases, System Design, and DDD
 - ✨ **I love to**: deepen my backend skills and build clean UI components
 - 🌿 **Fun fact**: I enjoy exploring the diverse world of tea
 
