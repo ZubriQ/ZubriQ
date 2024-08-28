@@ -15,6 +15,6 @@
 <hr/>
 <div align="center">
   
-[![ZubriQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubriq&count_private=true&hide_rank=true&show_icons=true&locale=en)](https://github.com/ZubriQ/github-readme-stats)    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubriq&layout=compact)](https://github.com/ZubriQ/github-readme-stats)
+[![ZubriQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubriq&count_private=true&hide_rank=true&show_icons=true&locale=en&theme=transparent)](https://github.com/ZubriQ/github-readme-stats)    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubriq&layout=compact&theme=transparent)](https://github.com/ZubriQ/github-readme-stats)
 
 <div>
