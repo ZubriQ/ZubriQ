@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/zubrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:zubriq.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<hr/>
-<div align="center">
-  
-[![ZubriQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubriq&count_private=true&hide_rank=true&show_icons=true&locale=en&theme=transparent&border_color=30363d)](https://github.com/ZubriQ/github-readme-stats)    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zubriq&layout=compact&theme=transparent&border_color=30363d)](https://github.com/ZubriQ/github-readme-stats)
+## GitHub Profile
+[![ZubriQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=zubriq&count_private=true&show_icons=true&locale=en&theme=transparent&rank_icon=github)](https://github.com/ZubriQ/github-readme-stats)
 
-<div>
