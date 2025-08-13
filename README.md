@@ -26,6 +26,3 @@
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="react" /></a>
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="tailwindcss" /></a>
 
-#### GitHub Profile
-[![ZubriQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZubriQ&count_private=true&show_icons=true&locale=en&theme=transparent&rank_icon=github)](https://github.com/ZubriQ/github-readme-stats)
-
